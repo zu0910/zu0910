@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**zu0910/zu0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Zully Fernanda Ortiz Avendaño. Tengo 18 años y actualmente estudio Administración de Empresas a distancia. Además, estoy reforzando mis habilidades en inglés en la academia IPT con un nivel B2 y estudio desarrollo de software en Campusland.
 
-Here are some ideas to get you started:
+Me apasiona el desarrollo de software y siempre estoy buscando nuevos desafíos para mejorar mis habilidades. A pesar de mi corta edad, estoy comprometida con mi formación académica y profesional, combinando mis estudios en administración con mi interés por la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias actualmente uso 
+
+* Python 
+* HTML5
+* CSS3
+
+## Contactos
+
+* *Email*: zullyortiz.09@gmail.com
+
+
+
