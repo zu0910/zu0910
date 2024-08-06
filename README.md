@@ -1,11 +1,16 @@
-## Hi there 👋
 
-Hola, soy Zully Fernanda Ortiz Avendaño. Tengo 18 años y actualmente estudio Administración de Empresas a distancia. Además, estoy reforzando mis habilidades en inglés en la academia IPT con un nivel B2 y estudio desarrollo de software en Campusland.
-
-Me apasiona el desarrollo de software y siempre estoy buscando nuevos desafíos para mejorar mis habilidades. A pesar de mi corta edad, estoy comprometida con mi formación académica y profesional, combinando mis estudios en administración con mi interés por la tecnología.
-
-## Lenguajes 
 <div align=center > 
+  
+## About me 👩🏻
+
+Hello everyone, My full name is Zully Fernanda Ortiz Avendaño. I'm 18 years old
+
+I am passionate about software development and I am always looking for new challenges to improve my skills. Despite my young age, I am committed to my academic and professional training.
+
+## Studies 📖
+   - 
+## Lenguajes 
+
   
 ![imagen](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![imagen](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +25,7 @@ Me apasiona el desarrollo de software y siempre estoy buscando nuevos desafíos 
 
 * *Email*: zullyortiz.09@gmail.com
 
-<div align="center" >
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zu0910&show_icons=true&theme=radical"
@@ -36,4 +41,4 @@ Me apasiona el desarrollo de software y siempre estoy buscando nuevos desafíos 
    <br>
    <img src="https://komarev.com/ghpvc/?username=zu0910&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
-
+<div align="center" >
