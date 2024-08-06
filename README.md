@@ -5,10 +5,14 @@ Hola, soy Zully Fernanda Ortiz Avendaño. Tengo 18 años y actualmente estudio A
 Me apasiona el desarrollo de software y siempre estoy buscando nuevos desafíos para mejorar mis habilidades. A pesar de mi corta edad, estoy comprometida con mi formación académica y profesional, combinando mis estudios en administración con mi interés por la tecnología.
 
 ## Lenguajes 
-
+<div align=center > 
+  
 ![imagen](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![imagen](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![imagen](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
+
+
 
 
 
