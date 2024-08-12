@@ -8,7 +8,10 @@ Hello everyone, My full name is Zully Fernanda Ortiz Avendaño. I'm 18 years old
 I am passionate about software development and I am always looking for new challenges to improve my skills. Despite my young age, I am committed to my academic and professional training.
 
 ## Studies 📖
-   - 
+   - Business administration.
+   - Software development.
+   - English B2 Technician.
+     
 ## Lenguajes 
 
   
